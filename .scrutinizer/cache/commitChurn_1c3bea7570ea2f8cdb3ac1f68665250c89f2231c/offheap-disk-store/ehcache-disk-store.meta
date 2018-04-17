@@ -1,0 +1,4 @@
+#Key and value types
+#Tue Apr 17 11:53:34 CEST 2018
+keyType=java.lang.String
+valueType=com.scrutinizerci.worker.churn.Commit

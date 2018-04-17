@@ -131,6 +131,9 @@ PSVHUD.prototype.handleEvent = function(e) {
   }
 };
 
+
+
+
 /**
  * @summary Adds a new marker to viewer
  * @param {Object} properties - see {@link http://photo-sphere-viewer.js.org/markers.html#config}
